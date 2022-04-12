@@ -1,4 +1,4 @@
-## Salve🤙, Da uma olhada nos meus codígos!
+##  Olá, Me chamo João Schrock e seja muito  bem-vindo ao meu github.
 <div align="center">
   <a href="https://https://github.com/JoaoSchrock">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoSchrock&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
