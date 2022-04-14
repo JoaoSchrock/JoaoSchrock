@@ -1,8 +1,8 @@
 ##  Olá, Me chamo João Schrock e seja muito  bem-vindo ao meu github.
 <div align="center">
   <a href="https://https://github.com/JoaoSchrock">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoSchrock&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchrock&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoSchrock&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchrock&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
   
   <div style="display: inline_block"><br>
