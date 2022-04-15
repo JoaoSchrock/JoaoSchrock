@@ -1,17 +1,19 @@
 ##  Olá, Me chamo João Schrock e seja muito  bem-vindo ao meu github.
+## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <a href="https://https://github.com/JoaoSchrock">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoSchrock&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchrock&layout=compact&langs_count=7&theme=rose_pine"/>  
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoschrock&color=yellow" alt="Profile views" /> </p>
     <a href="https://twitter.com/joao_schrock" target="_blank">
-  <img align="esquerda" src="https://img.shields.io/badge/-joaoschrock-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="esquerda" src="https://img.shields.io/badge/-joaoschrock-05122A?style=flat&logo=twitter" alt="twitter"/>
+      
 
    
   
 </div>
     
-  
+  ## 🛠My specialties
   <div style="display: inline_block"><br>
 
   <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
