@@ -1,5 +1,5 @@
 <p align="left"> 
- 👨‍💻 Olá, meu nome é João Schrock, Sou programador.
+ 🤙 Olá, meu nome é João Schrock, e sou Programador.
 </p>
 
 <p align="left">
