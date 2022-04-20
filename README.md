@@ -1,4 +1,4 @@
-<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
+<img src="ilus-code.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="logo iuricode">
 
 <p align="left"> 
  🤙 Olá, meu nome é João Schrock, e sou Programador.
@@ -17,6 +17,8 @@
 
 
 <br>
+
+
 
 <p align="left">
   <a href="https://www.instagram.com/joaoschrock/" alt="Instagram">
