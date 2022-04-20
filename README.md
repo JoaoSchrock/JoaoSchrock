@@ -1,61 +1,37 @@
-##  Olá, Me chamo João Schrock e seja muito  bem-vindo ao meu github.
-## ⚙️ &nbsp;GitHub Analytics
-<div align="center">
-  <a href="https://https://github.com/JoaoSchrock">
+<p align="left"> 
+ 👨‍💻 Olá, meu nome é João Schrock, Sou programador.
+</p>
+
+<p align="left">
+ ☕ Habilidades: <strong>Java</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VS Code , GitHub, Intellij</strong>
+</p>
+
+
+
+
+
+<br>
+
+<p align="left">
+  <a href="https://www.instagram.com/joaoschrock/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-schrock-b36560209" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+  </a>
+
+</p>
+<a href="https://https://github.com/JoaoSchrock">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoSchrock&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchrock&layout=compact&langs_count=7&theme=rose_pine"/>  
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoschrock&color=yellow" alt="Profile views" /> </p>
     <a href="https://twitter.com/joao_schrock" target="_blank">
-  <img align="esquerda" src="https://img.shields.io/badge/-joaoschrock-05122A?style=flat&logo=twitter" alt="twitter"/>
-      
+  <img align="esquerda" src="https://img.shields.io/badge/-joaoschrock-05122A?
 
-   
-  
-</div>
-    
-  ## 🛠My specialties
-  <div style="display: inline_block"><br>
-  <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="joaoSchrock" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-
-   
-  <img align="right" alt="Rafa-pic" height="110" style="border-radius:30px;" src="https://www.revistabula.com/wp/wp-content/uploads/2019/07/Sherlock-Holmes-co%CC%81pia-610x350.jpg">
-    
-          
-  </div>
-    
-    
-  
-  ##
-    
-    
-    
-    
-    
-   ## 🧑🏼 Social Links
-
-</a>
-<a href="https://twitter.com/joao_schrock" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-joaoschrock-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-schrock-b36560209/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-joaoschrock-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/joaoschrock/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-joaoschrock-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.youtube.com/channel/UCY1ZlKV-bSjpBNw4GkXboBA" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-joaoschrock-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-
-
-  <div> 
-    
-
-    
-    
-     
-
-</div>
 
 
