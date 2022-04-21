@@ -30,12 +30,19 @@
   </a>
 
 </p>
+<p align="height">
 <a href="https://https://github.com/JoaoSchrock">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoSchrock&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchrock&layout=compact&langs_count=7&theme=rose_pine"/>  
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoschrock&color=yellow" alt="Profile views" /> </p>
+  <img 
+       align="center"
+       height="140em" src="https://github-readme-stats.vercel.app/api?username=joaoSchrock&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img 
+       align="center"
+       height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchrock&layout=compact&langs_count=7&theme=rose_pine"/>  
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoschrock&color=yellow" alt="Profile views" /> 
+ </p>
     <a href="https://twitter.com/joao_schrock" target="_blank">
-  <img align="esquerda" src="https://img.shields.io/badge/-joaoschrock-05122A?
+     
+
 
 
 
