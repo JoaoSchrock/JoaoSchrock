@@ -14,12 +14,9 @@
 
 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/joaoschrock/github-readme-stats)
 
 <br>
-
-
-
 <p align="left">
   <a href="https://www.instagram.com/joaoschrock/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
@@ -38,7 +35,7 @@
   <img 
        align="center"
        height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchrock&layout=compact&langs_count=7&theme=rose_pine"/>  
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoschrock&color=yellow" alt="Profile views" /> 
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoschrock&color=yellow" alt="Profile views" />
  </p>
     <a href="https://twitter.com/joao_schrock" target="_blank">
      
