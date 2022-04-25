@@ -12,10 +12,6 @@
   💼 Ferramentas: <strong>VS Code , GitHub, Intellij</strong>
 </p>
 
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoschrock&repo=github-readme-stats)](https://github.com/joaoschrock/github-readme-stats)
-
 <br>
 <p align="left">
   <a href="https://www.instagram.com/joaoschrock/" alt="Instagram">
