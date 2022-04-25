@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-schrock-b36560209" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
- <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
+ <a href="https://discord.com/channels/@me" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
   </a>
 
