@@ -1,7 +1,7 @@
 <img src="ilus-code.svg" min-width="150px" max-width="150px" width="150px" align="right" alt="logo iuricode">
 
 <p align="left"> 
- 🤙 Olá, meu nome é João Schrock, e sou Programador.
+ <img src="https://media0.giphy.com/media/3ov9jO6MzE4Ft7MWv6/giphy.gif" width="35px">Olá, meu nome é João Schrock, e sou Programador.
 </p>
 
 <p align="left">
