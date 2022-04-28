@@ -1,18 +1,17 @@
 <img src="ilus-code.svg" min-width="150px" max-width="150px" width="150px" align="right" alt="logo iuricode">
 
 <h1 align="height"><img src="https://media0.giphy.com/media/3ov9jO6MzE4Ft7MWv6/giphy.gif" width="35px">Olá, Meu nome é João Schrock. </h1></img>
-
 <p align="left"> 
 </p>
 
 <p align="left">
  ☕ Habilidades: <strong>Java</strong>
-</p>
+</p> 
 
 <p align="left">
   💼 Ferramentas: <strong>VS Code , GitHub, Intellij</strong>
 </p>
-
+    
 <br>
 <p align="left">
   <a href="https://www.instagram.com/joaoschrock/" alt="Instagram">
@@ -38,7 +37,7 @@
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoschrock&color=yellow" alt="Profile views" />
  </p>
     <a href="https://twitter.com/joao_schrock" target="_blank">
-     
+      
 
 
 
