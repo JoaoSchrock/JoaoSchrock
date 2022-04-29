@@ -29,7 +29,7 @@
 <a href="https://https://github.com/JoaoSchrock">
   <img 
        align="center"
-       height="140em" src="https://github-readme-stats.vercel.app/api?username=joaoSchrock&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+       height="140em" src="https://github-readme-stats.vercel.app/api?username=joaoschrock&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   <img 
        align="center"
        height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchrock&layout=compact&langs_count=7&theme=rose_pine"/>  
