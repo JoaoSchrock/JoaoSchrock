@@ -33,13 +33,12 @@
   <img 
        align="center"
        height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchrock&layout=compact&langs_count=7&theme=rose_pine"/>  
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoschrock&color=yellow" alt="Profile views" />
+    <p align="left"> 
+      <img  height="22m" src="https://komarev.com/ghpvc/?username=joaoschrock&color=blue" alt="Profile views" />
  </p>
-    <a href="https://twitter.com/joao_schrock" target="_blank">
-     
-     
-      
-
-
-
+  <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img align="center" alt="MS-DOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg">
+<img align="center" alt="MS-DOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+<img align="center" alt="MS-DOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img align="center" alt="MS-DOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
 
