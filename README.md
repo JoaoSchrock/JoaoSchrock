@@ -40,7 +40,8 @@
     <img align="center" alt="MS-DOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg">
 <img align="center" alt="MS-DOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
  <img align="center" alt="MS-DOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
- <img align="center" alt="MS-DOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+ <img align="center" alt="MS-DOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" />
+
 
 
 
