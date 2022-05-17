@@ -105,6 +105,16 @@
 ----
 ### [04 - Desafio (This e Construtores)](https://github.com/JoaoSchrock/Java/tree/main/o_objeto_this/desafio_objeto_this_e_construtores/)
 ----
+ ### [05 - Desafio Static e Final)](https://github.com/JoaoSchrock/Java/tree/main/Desafio_Static_e_Final/)
+----
+### [07 - Modificadr de Acesso Default)](https://github.com/JoaoSchrock/Java/tree/main/Modificadordeacessodefault/)
+----
+### [08 - Modificadr Static e Final)](https://github.com/JoaoSchrock/Java/tree/main/modificadorstaticefinal/)
+----
+### [09 - Enumeraçoes 5-12)](https://github.com/JoaoSchrock/Java/tree/main/enumeracoes_5_12/)
+----
+
+
 
 
 
