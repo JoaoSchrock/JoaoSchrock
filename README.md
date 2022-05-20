@@ -2,15 +2,6 @@
 <h1 align="height"><img src="https://media0.giphy.com/media/3ov9jO6MzE4Ft7MWv6/giphy.gif" width="35px">Olá, Meu nome é João Schrock. </h1></img>
 <p align="left"> 
 </p>
-
-<p align="left">
- ☕ Habilidades: <strong>Java</strong>
-</p> 
-
-<p align="left">
-  💼 Ferramentas: <strong>VS Code , GitHub, Intellij</strong>
-</p>
-    
 <br>
 <p align="left">
   <a href="https://www.instagram.com/joaoschrock/" alt="Instagram">
