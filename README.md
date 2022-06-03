@@ -118,6 +118,11 @@
 ----
 ### [16 - Classes Abstratas (5-21)](https://github.com/JoaoSchrock/Java/tree/main/_5_21_classes_abstratas/)
 ----
+### [17 - Desafio Polimorfismo e Classes Abstratas (5-22)](https://github.com/JoaoSchrock/Java/tree/main/_5_22_desafio_polimorfismo_e_classes_abstratas/)
+----
+### [18 - Interfaces (5-23)](https://github.com/JoaoSchrock/Java/tree/main/_5_23_interfaces/)
+----
+
 
 
 
