@@ -124,6 +124,8 @@
 ----
 ### [19 - Desafio Interface e Polimorfismo (5-24)](https://github.com/JoaoSchrock/Java/tree/main/DesafioInterfaceePolimorfismo/)
 ----
+### [20 - (topicos avancados) classe java lang math (6-2)](https://github.com/JoaoSchrock/Java/tree/main/DesafioInterfaceePolimorfismo/)
+----
 
 
 
