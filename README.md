@@ -129,7 +129,7 @@
 ----
 ### [02 - Desafio Math (6-2)](https://github.com/JoaoSchrock/Java/tree/main/Exercicio_Topicos_Avancados/)
 ----  
-### [03 - Desafio Math (6-2)](https://github.com/JoaoSchrock/Java/tree/main/_6_4_tratando_e_lancando_excecoes/)
+### [03 - Tratando e Lançando Excessoes (6-3)](https://github.com/JoaoSchrock/Java/tree/main/_6_4_tratando_e_lancando_excecoes/)
 ----  
 
 
