@@ -141,6 +141,8 @@
 ### [06 - Trabalhando com Datas (6-7)](https://github.com/JoaoSchrock/Java/tree/main/_6_7_trabalhando_com_datas/)
   
 ### [07 - Desafio Datas (6-8)](https://github.com/JoaoSchrock/Java/tree/main/DesafioDatas/)
+
+### [08 - Trabalhando com Numeros (6-9)](https://github.com/JoaoSchrock/Java/tree/main/_6_9_trabalhando_com_numeros/)
 ----          
 
 
