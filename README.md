@@ -8,12 +8,24 @@
     <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
   </a>
   
+ 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-schrock-b36560209" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
  <a href="https://discord.com/channels/@me" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
+ 
   </a>
+  
+  </div> 
+  
+  <img 
+       align="left"
+height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=joaoschrock&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>
+ <img 
+       align="left"
+height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=joaoschrock&langs_count=20&theme=tokyonight"/>  
+
 
 </p>
 <p align="height">
@@ -143,6 +155,8 @@
 ### [07 - Desafio Datas (6-8)](https://github.com/JoaoSchrock/Java/tree/main/DesafioDatas/)
 
 ### [08 - Trabalhando com Numeros (6-9)](https://github.com/JoaoSchrock/Java/tree/main/_6_9_trabalhando_com_numeros/)
+   
+### [09 - Desafio Numeros (6-10)](https://github.com/JoaoSchrock/Java/tree/main/Desafio_Numeros/)
 ----          
 
 
