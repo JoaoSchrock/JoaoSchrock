@@ -1,4 +1,7 @@
+
 <img src="ilus-code.svg" min-width="150px" max-width="150px" width="150px" align="right" alt="logo iuricode">
+ <p align="left"> 
+      <img  height="22m" src="https://komarev.com/ghpvc/?username=joaoschrock&color=blue" alt="Profile views" />
 <h1 align="height">Olá, Meu nome é João Schrock. </h1></img>
 <p align="left"> 
 </p>
@@ -28,12 +31,14 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
 
 
 </p>
-    <p align="left"> 
-      <img  height="22m" src="https://komarev.com/ghpvc/?username=joaoschrock&color=blue" alt="Profile views" />
  </p>
   <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
     <img align="center" alt="MS-DOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg">
 <img align="center" alt="MS-DOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+ <img align="center" alt="MS-DOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="MS-DOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
+
 
  
  # Java
