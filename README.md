@@ -28,23 +28,14 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
 
 
 </p>
-<p align="height">
-<a href="https://https://github.com/JoaoSchrock">
-  <img 
-       align="center"
-       height="140em" src="https://github-readme-stats.vercel.app/api?username=joaoschrock&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img 
-       align="center"
-       height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchrock&layout=compact&langs_count=7&theme=rose_pine"/>  
+
+  <
     <p align="left"> 
       <img  height="22m" src="https://komarev.com/ghpvc/?username=joaoschrock&color=blue" alt="Profile views" />
  </p>
   <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
     <img align="center" alt="MS-DOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg">
 <img align="center" alt="MS-DOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
- <img align="center" alt="MS-DOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
- <img align="center" alt="MS-DOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="MS-DOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
  
  # Java
@@ -157,6 +148,10 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
 ### [08 - Trabalhando com Numeros (6-9)](https://github.com/JoaoSchrock/Java/tree/main/_6_9_trabalhando_com_numeros/)
    
 ### [09 - Desafio Numeros (6-10)](https://github.com/JoaoSchrock/Java/tree/main/Desafio_Numeros/)
+
+### [10 - Collections Framework (6-11)](https://github.com/JoaoSchrock/Java/tree/main/_6_11_collectionsframework/)
+
+### [11 - metodos equals e hashcode  (6-12)](https://github.com/JoaoSchrock/Java/tree/main/_6_11_collectionsframework/)
 ----          
 
 
