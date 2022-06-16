@@ -28,8 +28,6 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
 
 
 </p>
-
-  <
     <p align="left"> 
       <img  height="22m" src="https://komarev.com/ghpvc/?username=joaoschrock&color=blue" alt="Profile views" />
  </p>
