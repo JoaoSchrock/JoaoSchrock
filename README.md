@@ -156,7 +156,7 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
 
 ### [11 - metodos equals e hashcode  (6-12)](https://github.com/JoaoSchrock/Java/tree/main/_6_12_metodos_equals_e_hashCode/)
 
-### [12 - Desafio Collections  (6-13)](https://github.com/JoaoSchrock/Java/tree/main/_6_13_desafio_collections/)
+### [12 - Desafio Collections  (6-13)](https://github.com/JoaoSchrock/Java/tree/main/DesafioCollections/)
 ----          
 
 
