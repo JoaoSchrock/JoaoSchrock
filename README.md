@@ -24,10 +24,10 @@
   
   <img 
        align="left"
-height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=joaoschrock&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>
+height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=joaoschrock&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>
  <img 
        align="left"
-height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=joaoschrock&langs_count=20&theme=tokyonight"/>  
+height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=joaoschrock&langs_count=20&theme=tokyonight&hide_border= true"/>  
 
 
 </p>
