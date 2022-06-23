@@ -43,12 +43,13 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
  
  # Java
 
-## 1- Exercicios Python Brasil (Feitos em Java).
+### 1- Exercicios Python Brasil (Feitos em Java).
+----
 ### [ Lista 1 Python - Estrutura Sequencial ](https://github.com/JoaoSchrock/Java/tree/main/Lista%201%20-%20Estrutura%20Sequencial/Exercicio-sequencial-main/)
 ### [ Lista 2 Python - Estrutura De Desição ](https://github.com/JoaoSchrock/Java/tree/main/Lista%202%20-%20Estrutura%20de%20Desi%C3%A7%C3%A3o/EstruturadeDesi-o-main/)
 ----
 
-## 2- Logica De Programação
+### 2- Logica De Programação
 ----
 ### [01 - Teste](https://github.com/JoaoSchrock/Java/tree/main/Testes/)
 
@@ -82,7 +83,7 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
 ### [11 - Algoritmos Avançados](https://github.com/JoaoSchrock/Java/tree/main/algoritmos_avancados/)
 ----
 
-##    _Orientação a Objeto_
+###    _Orientação a Objeto_
 ### 1º Parte
 ----
 ### [01 - Valores Padrão](https://github.com/JoaoSchrock/Java/tree/main/valores_padrao/)
@@ -132,7 +133,8 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
 
 ### [19 - Desafio Interface e Polimorfismo (5-24)](https://github.com/JoaoSchrock/Java/tree/main/DesafioInterfaceePolimorfismo/)
 ----
-##    _Topicos Avançados_  
+
+###    _Topicos Avançados_  
 ----
 ### [01 - classe java lang math (6-1)](https://github.com/JoaoSchrock/Java/tree/main/_6_topcos_avancados_6_2_classe_java_lang__math/)
   
@@ -159,7 +161,13 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
 ### [12 - Desafio Collections  (6-13)](https://github.com/JoaoSchrock/Java/tree/main/DesafioCollections/)
 
 ### [13 - Ordenando objetos  (6-18)](https://github.com/JoaoSchrock/Java/tree/main/_6_18_ordenando_objetos/)
-----          
+----      
+
+###    _Mais Detalhes e Frameworks_  
+----      
+### [01 - Metodos da Classe String  (7-1)](https://github.com/JoaoSchrock/Java/tree/main/_7_mais_detalhes_e_frameworks_7_1__metodos_da_classe_string/)
+
+
 
 
 
