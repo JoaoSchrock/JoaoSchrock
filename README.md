@@ -166,6 +166,9 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
 ###    _Mais Detalhes e Frameworks_  
 ----      
 ### [01 - Metodos da Classe String  (7-1)](https://github.com/JoaoSchrock/Java/tree/main/_7_mais_detalhes_e_frameworks_7_1__metodos_da_classe_string/)
+----      
+### [02 - JOptionPane  (7-2)](https://github.com/JoaoSchrock/Java/tree/main/_7_2_joptionpane/)
+
 
 
 
