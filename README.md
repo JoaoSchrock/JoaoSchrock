@@ -177,6 +177,13 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
 ### [01 - Salvando e Lendo Objetos em Arquivos _Model_  (9-1)](https://github.com/JoaoSchrock/Java/tree/main/model/)
 
 ### [02 - Enviando Objetos na rede (9-2)](https://github.com/JoaoSchrock/Java/tree/main/_9_2_enviando_objetos_na_rede/)
+----      
+###    _Novidades Do  Java7_  
+----      
+### [01 - Separador de Digitos em Literais Numericos (10-1)](https://github.com/JoaoSchrock/Java/tree/main/_10_novidades_do_java__7_10_1_separador_de_digitos_em_literais_numericos/)
+
+### [02 - Switch Case com String (10-2)](https://github.com/JoaoSchrock/Java/tree/main/_10_novidades_do_java__7_10_1_separador_de_digitos_em_literais_numericos/)
+
 
       
 
