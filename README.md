@@ -178,11 +178,21 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
 
 ### [02 - Enviando Objetos na rede (9-2)](https://github.com/JoaoSchrock/Java/tree/main/_9_2_enviando_objetos_na_rede/)
 ----      
-###    _Novidades Do  Java7_  
+###    _Novidades Do  Java 7_  
 ----      
 ### [01 - Separador de Digitos em Literais Numericos (10-1)](https://github.com/JoaoSchrock/Java/tree/main/_10_novidades_do_java__7_10_1_separador_de_digitos_em_literais_numericos/)
 
 ### [02 - Switch Case com String (10-2)](https://github.com/JoaoSchrock/Java/tree/main/_10_novidades_do_java__7_10_1_separador_de_digitos_em_literais_numericos/)
+
+### [03 - Diamond (10-3)](https://github.com/JoaoSchrock/Java/tree/main/_10_3_diamond/)
+----
+###    _Novidades Do  Java 8_  
+----      
+### [01 - Introdução a o Lambda (11-1)](https://github.com/JoaoSchrock/Java/tree/main/_11_1_introducao_ao_lambda_/)
+
+### [02 - Referencia a Metodos (11-2)](https://github.com/JoaoSchrock/Java/tree/main/_11_2_referencia_a_metodos_/)
+
+
 
 
       
