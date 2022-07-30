@@ -5,7 +5,8 @@
 <div> 
  <div align="center">
    <a href="https://www.linkedin.com/in/jo%C3%A3o-schrock-b36560209" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+    <hr>
+   <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
 </div>
  
  <hr>
@@ -18,11 +19,10 @@
 </div>
   
  
+ <hr>
   
 <div align="center"><br>
-  <img align="center" alt="techjuliana-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="techjuliana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <hr>
+<img align="center" alt="techjuliana-React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 
  
 
