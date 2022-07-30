@@ -7,6 +7,7 @@
    <a href="https://www.linkedin.com/in/jo%C3%A3o-schrock-b36560209" alt="Linkedin">
     <hr>
    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+   
 </div>
  
  <hr>
