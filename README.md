@@ -25,10 +25,7 @@
 <div align="center"><br>
 <img align="center" alt="joaoschrock-React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 
-
-### JAVA
 ### [📂](https://github.com/JoaoSchrock/Java/)
-
 <hr>
 
  
