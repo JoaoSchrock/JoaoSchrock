@@ -1,3 +1,5 @@
+
+<p align="left"><img src="https://profile-counter.glitch.me/{joaoschrock}/count.svg" alt="joaoschrock :: Visitor's Count" /></p>
 <hr>
 <h4 align="center">
 <img src="https://media0.giphy.com/media/RIpj8HJGVGGTUdM76b/giphy.gif?cid=ecf05e47ayby3vadp5f1secuj6ham2nxvm7iv1y140yrwv5j&amp;rid=giphy.gif&amp;ct=g" alt="ioana sopov animation pixel illustration drawing GIF" style="width: 1400px; height: 1201.942px; left: 0px; top: 0px; opacity: 0;">
