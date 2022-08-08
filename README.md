@@ -30,6 +30,11 @@
 ### [📂](https://github.com/JoaoSchrock/Java/)
 <hr>
 
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="48" height="48"
+viewBox="0 0 48 48"
+style=" fill:#000000;"><linearGradient id="iIa8k2duEToubOiDiINZpa_GjCK2f2wpZxt_gr1" x1="-2.16" x2="28.478" y1="4.752" y2="44.103" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f52537"></stop><stop offset=".293" stop-color="#f32536"></stop><stop offset=".465" stop-color="#ea2434"></stop><stop offset=".605" stop-color="#dc2231"></stop><stop offset=".729" stop-color="#c8202c"></stop><stop offset=".841" stop-color="#ae1e25"></stop><stop offset=".944" stop-color="#8f1a1d"></stop><stop offset="1" stop-color="#7a1818"></stop></linearGradient><path fill="url(#iIa8k2duEToubOiDiINZpa_GjCK2f2wpZxt_gr1)" d="M6,10.982v11.448c0,0.454,0.155,0.895,0.438,1.249L17.4,37.38 c0.38,0.474,0.954,0.751,1.562,0.751h8.958c0.839,0,1.305-0.97,0.781-1.625L7.781,10.357C7.19,9.619,6,10.037,6,10.982z"></path><linearGradient id="iIa8k2duEToubOiDiINZpb_GjCK2f2wpZxt_gr2" x1="30.721" x2="40.996" y1="13.549" y2="26.746" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f52537"></stop><stop offset=".293" stop-color="#f32536"></stop><stop offset=".465" stop-color="#ea2434"></stop><stop offset=".605" stop-color="#dc2231"></stop><stop offset=".729" stop-color="#c8202c"></stop><stop offset=".841" stop-color="#ae1e25"></stop><stop offset=".944" stop-color="#8f1a1d"></stop><stop offset="1" stop-color="#7a1818"></stop></linearGradient><path fill="url(#iIa8k2duEToubOiDiINZpb_GjCK2f2wpZxt_gr2)" d="M28.149,27.131h9.022c0.53,0,1.039-0.211,1.414-0.586l2.828-2.828 C41.789,23.342,42,22.833,42,22.303V10.871c0-0.933-1.164-1.358-1.765-0.644l-12.851,15.26 C26.837,26.137,27.299,27.131,28.149,27.131z"></path></svg>
+
  
 
 
