@@ -1,4 +1,5 @@
 <p align="left"><img src="https://profile-counter.glitch.me/{joaoschrock}/count.svg" alt="joaoschrock :: Visitor's Count" /></p>
+ <hr>
 
 ```geojson
 {
