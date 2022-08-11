@@ -1,31 +1,18 @@
 <p align="left"><img src="https://profile-counter.glitch.me/{joaoschrock}/count.svg" alt="joaoschrock :: Visitor's Count" /></p>
  <hr>
+Cronograma de Estudos:
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
+```mermaid
+graph TD;
+    Estudar-->Aprender;
+    Aprender-->Foco;
+    Aprender-->Organização;
+    Aprender-->Vontade;
+    Foco-->Tempo;
+    Vontade-->Tempo;
+    
+    
+    
 ```
 <div> 
  
