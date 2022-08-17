@@ -31,7 +31,7 @@ graph TD;
 <div align="center">
 
 |   Nome   |  Botão Facilitador    |    Descrição    |
-| :---         |     :---:      |          ---: |
+| :---:         |     :---:      |          :---: |
 | ` Pasta Java` | [📂](https://github.com/JoaoSchrock/Java/)     | ` Conteudo Java` |
 | ` Perguntas Frequentes`     | [📂](https://github.com/JoaoSchrock/Curiosidades/) | ` Dúvidas dentro da Programação`      |
 | ` Algamoney - api`     | [📂](https://github.com/JoaoSchrock/Framework/) | ` Banco de Dados` ` MySQL`       |
