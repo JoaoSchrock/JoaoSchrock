@@ -1,19 +1,5 @@
 <p align="left"><img src="https://profile-counter.glitch.me/{joaoschrock}/count.svg" alt="joaoschrock :: Visitor's Count" /></p>
- <hr>
-Cronograma de Estudos:
 
-```mermaid
-graph TD;
-    Estudar-->Aprender;
-    Aprender-->Foco;
-    Aprender-->Organização;
-    Aprender-->Vontade;
-    Foco-->Tempo;
-    Vontade-->Tempo;
-    
-    
-    
-```
 <div> 
  
  <hr>
