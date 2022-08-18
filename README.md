@@ -19,6 +19,7 @@
 |   Nome   |  Botão Facilitador    |    Descrição    |
 | :---:         |     :---:      |          :---: |
 | ` Pasta Java` | [📂](https://github.com/JoaoSchrock/Java/)     | ` Conteudo Java` |
+| ` Modelagem de Sistemas` | [📂]( https://github.com/JoaoSchrock/Projeto-de-Software/tree/main/)     | `Duvidas frequentes à Modelagem de Sistemas` |
 | ` Perguntas Frequentes`     | [📂](https://github.com/JoaoSchrock/Curiosidades/) | ` Dúvidas dentro da Programação`      |
 | ` Algamoney - api`     | [📂](https://github.com/JoaoSchrock/Framework/) | ` Banco de Dados` ` MySQL`       |
 | ` Canal no Youtube`     | <a href="https://www.youtube.com/channel/UCY1ZlKV-bSjpBNw4GkXboBA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> | ` Meu canal no Youtube` ` Inscreva - se`       |
@@ -28,7 +29,6 @@
 
 
       
- 
 
 
 
