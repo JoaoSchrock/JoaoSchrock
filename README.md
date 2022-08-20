@@ -28,8 +28,8 @@
 <hr>
 
 
-# Refêrencia para Estudo
-## Spring Boot Essentials 2 (DevDojo)
+# Material de Estudo
+### Spring Boot Essentials 2 (DevDojo)
 
 <details><summary>Clique👆</summary>
    </p>
