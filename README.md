@@ -19,6 +19,7 @@
 |   Nome   |  Botão Facilitador    |    Descrição    |
 | :---:         |     :---:      |          :---: |
 | ` java folder` | [📂](https://github.com/JoaoSchrock/Java/)     | ` java folder` |
+| ` Curso Angular` | [📂](https://github.com/JoaoSchrock/curso-angular-rest-spring-boot-api/)     | ` Cursos Angular Folder` |
 | ` systems modeling` | [📂]( https://github.com/JoaoSchrock/Projeto-de-Software/tree/main/)     | `systems modeling folder` |
 | ` Common questions`     | [📂](https://github.com/JoaoSchrock/Curiosidades/) | ` programming folder`      |
 | ` Algamoney - api`     | [📂](https://github.com/JoaoSchrock/Framework/) | ` Banco de Dados` ` MySQL`       |
