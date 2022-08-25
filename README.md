@@ -26,6 +26,7 @@
 | ` Study material` | [📂](https://github.com/JoaoSchrock/Study-material/)     | ` Study material` |
 | ` Curso Angular` | [📂](https://github.com/JoaoSchrock/curso-angular-rest-spring-boot-api/)     | ` Cursos Angular Folder` |
 | ` systems modeling` | [📂]( https://github.com/JoaoSchrock/Projeto-de-Software/tree/main/)     | `systems modeling folder` |
+| ` my diagram` | [📂]( https://github.com/JoaoSchrock/my-diagram/)     | `my diagram` |
 | ` Common questions`     | [📂](https://github.com/JoaoSchrock/Curiosidades/) | ` programming folder`      |
 | ` Algamoney - api`     | [📂](https://github.com/JoaoSchrock/Framework/) | ` Banco de Dados` ` MySQL`       |
 | ` Canal no Youtube`     | <a href="https://www.youtube.com/channel/UCY1ZlKV-bSjpBNw4GkXboBA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> | ` Meu canal no Youtube` ` Inscreva - se`       |
