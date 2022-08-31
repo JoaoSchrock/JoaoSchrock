@@ -40,5 +40,7 @@
 <hr>
 
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joaoschrock" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/joaoschrock?trk=profile-badge">João Schrock</a></div>
+           
 
 
