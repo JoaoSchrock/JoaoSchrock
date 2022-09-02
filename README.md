@@ -11,7 +11,7 @@
 
  ## ` ⬇️ ACESSE MINHAS PRINCIPAIS PASTAS ⬇️`
 
-|   Número  |  Botão Facilitador    |    Descrição    |                                                                                            
+|  -   |  -   |   -  |                                                                                            
 | :---:         |     :---:      |          :---: |
 | ` 1º` | [📂](https://github.com/JoaoSchrock/Java/)     | ` java folder` |                                                   
 | ` 2º` | [📂](https://github.com/JoaoSchrock/Study-material/)     | ` Study material` |
