@@ -19,7 +19,10 @@
 | ` 4º` | [📂]( https://github.com/JoaoSchrock/Projeto-de-Software/tree/main/)     | `systems modeling folder` |
 | ` 5º` | [📂]( https://github.com/JoaoSchrock/my-diagram/)     | `my diagram` |
 | ` 6º`     | [📂](https://github.com/JoaoSchrock/Curiosidades/) | ` programming folder`      |
-| ` 7º`     | [📂](https://github.com/JoaoSchrock/Framework/) | ` Banco de Dados` ` MySQL`       |
+| ` 7º`     | [📂](https://github.com/JoaoSchrock/Framework/) | ` Material de Estudo Banco de Dados`       |
+
+
+
 
 
 
