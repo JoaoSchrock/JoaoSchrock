@@ -23,10 +23,6 @@
 | :---:         |     :---:      |          :---: |
 | ` 4º`     | [📂](https://github.com/JoaoSchrock/Curiosidades/) | ` Material de Estudo Programação`      |
 
-|    |    |    |                                                                                            
-| :---:         |     :---:      |          :---: |
-| ` 3º` | [📂](https://github.com/JoaoSchrock/Study-material/)     | ` Material de Estudo` |
-
 
 
 
