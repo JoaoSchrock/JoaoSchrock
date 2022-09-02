@@ -11,16 +11,33 @@
 
  ## ` ⬇️ ACESSE MINHAS PRINCIPAIS PASTAS ⬇️`
 
-|  -   |  -   |   -  |                                                                                            
+|    |    |    |                                                                                            
 | :---:         |     :---:      |          :---: |
-| ` 1º` | [📂](https://github.com/JoaoSchrock/Java/)     | ` java folder` |                                                   
-| ` 2º` | [📂](https://github.com/JoaoSchrock/Study-material/)     | ` Study material` |
-| ` 3º` | [📂](https://github.com/JoaoSchrock/curso-angular-rest-spring-boot-api/)     | ` Cursos Angular Folder` |
-| ` 4º` | [📂]( https://github.com/JoaoSchrock/Projeto-de-Software/tree/main/)     | `systems modeling folder` |
-| ` 5º` | [📂]( https://github.com/JoaoSchrock/my-diagram/)     | `my diagram` |
-| ` 6º`     | [📂](https://github.com/JoaoSchrock/Curiosidades/) | ` programming folder`      |
+| ` 1º` | [📂]( https://github.com/JoaoSchrock/my-diagram/)     | `Material de Estudo Diagramas` |
+
+|    |    |    |                                                                                            
+| :---:         |     :---:      |          :---: |
 | ` 7º`     | [📂](https://github.com/JoaoSchrock/Framework/) | ` Material de Estudo Banco de Dados`       |
 
+|    |    |    |                                                                                            
+| :---:         |     :---:      |          :---: |
+| ` 4º`     | [📂](https://github.com/JoaoSchrock/Curiosidades/) | ` Material de Estudo Programação`      |
+
+|    |    |    |                                                                                            
+| :---:         |     :---:      |          :---: |
+| ` 3º` | [📂](https://github.com/JoaoSchrock/Study-material/)     | ` Material de Estudo` |
+
+
+
+
+|    |    |    |                                                                                            
+| :---:         |     :---:      |          :---: |
+| ` 2º` | [📂](https://github.com/JoaoSchrock/Java/)     | ` Pasta Java` |  
+
+
+|    |    |    |                                                                                            
+| :---:         |     :---:      |          :---: |
+| ` 6º` | [📂]( https://github.com/JoaoSchrock/Projeto-de-Software/tree/main/)     | `Modelagem de Sistemas` |
 
 
 
