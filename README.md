@@ -1,17 +1,4 @@
 
-<hr>
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.pinimg.com/originals/66/29/ac/6629ac69eee96adbe0880b4f06afdc26.gif" width="863" height="541">
-<div> 
- 
- <hr>
- 
- <div>
-
-</div>
-    
-<div 
-
-
 ### [](/)
 
 <div align="center">
