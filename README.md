@@ -3,38 +3,19 @@
     <img align="center" alt="Black"  src="https://img.shields.io/badge/⠀            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀JOÄO SCHROCK⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                                                                                                                                                                                                                                                                                                                                                                                      -%23000?style=for-the-badge&logo=&logoColor=white">
 
     
- ![vaporwave-car](https://user-images.githubusercontent.com/101228590/188057524-a059fe81-89c0-4c30-93db-1592ce5320a2.gif)
-   
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+
 
 
 <div align="center">
 
  ## ` ⬇️ ACESSE MINHAS PRINCIPAIS PASTAS ⬇️`
 
-|    |    |    |                                                                                            
-| :---:         |     :---:      |          :---: |
-| ` 1º` | [📂]( https://github.com/JoaoSchrock/my-diagram/)     | `Material de Estudo Diagramas` |
-
-|    |    |    |                                                                                            
-| :---:         |     :---:      |          :---: |
-| ` 7º`     | [📂](https://github.com/JoaoSchrock/Framework/) | ` Material de Estudo Banco de Dados`       |
-
-|    |    |    |                                                                                            
-| :---:         |     :---:      |          :---: |
-| ` 4º`     | [📂](https://github.com/JoaoSchrock/Curiosidades/) | ` Material de Estudo Programação`      |
-
-
-
-
-|    |    |    |                                                                                            
-| :---:         |     :---:      |          :---: |
-| ` 2º` | [📂](https://github.com/JoaoSchrock/Java/)     | ` Pasta Java` |  
-
-
-|    |    |    |                                                                                            
-| :---:         |     :---:      |          :---: |
-| ` 6º` | [📂]( https://github.com/JoaoSchrock/Projeto-de-Software/tree/main/)     | `Modelagem de Sistemas` |
-
+| `1º`  |   `2º`  |
+| ------------------- | ------------------- |
+|  [Material de Estudo Diagramas]( https://github.com/JoaoSchrock/my-diagram/)    |  [ Material de Estudo Banco de Dados](https://github.com/JoaoSchrock/Framework/)|
+| [ Material de Estudo Programação](https://github.com/JoaoSchrock/Curiosidades/) | [Pasta Java](https://github.com/JoaoSchrock/Java/)  |
 
 
 
